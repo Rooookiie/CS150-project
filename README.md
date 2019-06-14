@@ -4,8 +4,11 @@
 
 Please type your Chinese name and ID.
 
-* Your Name:
-* Your ID:
+* Your Name: Zikun Xiao
+* Your ID: 51794730
+
+* Your Name: Zhang Jun
+* Your ID: 12903136
 
 *If you are a team, please write names and IDs of both people.*
 
